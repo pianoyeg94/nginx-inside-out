@@ -1,3 +1,3 @@
 # Nginx inside out
 
-Research of Nginx's inner working and mechanics.
+Research of Nginx's inner workings and mechanics.
